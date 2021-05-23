@@ -1,0 +1,14 @@
+**/.DS_Store
+**/node_modules
+
+# IDE directories and files
+**/.idea
+**/.vscode
+**/.suo
+**/.ntvs*
+**/.njsproj
+**/.sln
+**/.sw?
+
+# private resources
+**/study-resources
