@@ -1,5 +1,5 @@
-/* 리터럴과 식별자의 구분 */
+/* distinguish between literal and identifier */
 
-caffeAmericano = 4100;
-orderPrice = caffeAmericano;
-orderMenu = "caffeAmericano";
+caffeAmericano = 4100
+orderPrice = caffeAmericano
+orderMenu = "caffeAmericano"

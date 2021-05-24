@@ -1,6 +1,6 @@
 /* Literal Example */
 
-let i = 10;
-let j = 20;
-let s1 = 'hello';
-let s2 = "JavaScript is Awesome";
+i = 10
+j = 20
+s1 = 'hello'
+s2 = "JavaScript is Awesome"

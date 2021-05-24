@@ -1,4 +1,4 @@
-/* 값의 다양한 표현식 */
+/* expressions for a value */
 
 2 + 2
 parseInt('4')
