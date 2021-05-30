@@ -1,3 +1,4 @@
-/* comma joins two complete expressions */
+/*  */
 
-i = 10, j = 20;
+a = 10
+b = 20;

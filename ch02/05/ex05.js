@@ -1,5 +1,5 @@
-/* syntax error: comma does not split tokens */
-
-i =
-10;	
-j =, 10;
+/* line break splits each tokens or make it be Expression Statement */
+i
+=
+10
+console.log(i)

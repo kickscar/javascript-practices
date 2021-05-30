@@ -1,6 +1,5 @@
-2 + 2
-parseInt('4')
-4
-i = 4
-i
-console.log(i)
+/* reference error */
+
+console
+.lo
+g('Hello World')
