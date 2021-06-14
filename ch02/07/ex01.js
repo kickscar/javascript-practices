@@ -3,7 +3,7 @@ console.log('Global EC pushed');
 function f1() {
     console.log("f1 Function EC pushed");
 
-    const f2 = function() {
+    function f2() {
         console.log("f2 Function EC pushed");
         // some codes...
         console.log('f2 Function EC popped off');

@@ -2,14 +2,17 @@ readme
 
 ## JavaScript Practices
 
-#### 01장. 자바스크립트 소개
-#### 02장. 어휘구조와 코드의 실행
-#### 03장. 기본타입과 객체
-#### 04장. 내장객체
-#### 05장. 함수
-#### 06장. 스코프
-#### 07장. 배열
-#### 08장. 예외
-#### 09장. 객체지향 프로그래밍
-#### 10장. 비동기 프로그래밍
-#### 11장. 모듈
+### 1. Introduction
+### 2. Lexical Structure
+### 3. Execution of the Code
+### 4. Scope
+
+
+### 4. 기본타입과 객체
+### 5. 내장객체
+### 6. 함수
+### 7. 배열
+### 8. 예외
+### 9. Object Oriented Programming
+### 10. Asynchronous Programming
+### 11. Module
