@@ -1,3 +1,5 @@
+/* Execution Stack(Known as Call Stack before ECMAScript3) */
+
 console.log('Global EC pushed');
 
 function f1() {

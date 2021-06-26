@@ -1,4 +1,4 @@
-/* variables declared using the let keyword and are block-scoped. */
+/* variables declared using the let keyword are in block-scoped. */
 
 let k = 10;
 
