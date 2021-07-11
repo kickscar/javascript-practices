@@ -2,13 +2,15 @@ readme
 
 ## JavaScript Practices
 
-### 1. Introduction
-### 2. Lexical Structure
-### 3. 기본타입과 객체
-### 4. 내장객체
-### 5. 함수
-### 6. 배열
-### 7. 예외
-### 8. Object Oriented Programming
-### 9. Asynchronous Programming
+### 1.	Introduction
+### 2.	Lexical Structure
+### 3.	Primitive Type and Object
+### 4.	Object Oriented Programming
+### 5.	Array
+### 6.	Function
+### 7.	Error Handling
+### 8.	Asynchronous Programming
+### 9.	DOM Programming(JavaScript in Browser)
 ### 10. Module
+### 11.	Development Environments
+### 12.	Server Programming(Node.js Fundamentals)

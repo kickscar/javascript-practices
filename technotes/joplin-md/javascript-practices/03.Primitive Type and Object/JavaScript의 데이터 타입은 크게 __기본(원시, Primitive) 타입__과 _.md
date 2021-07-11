@@ -6,12 +6,11 @@ JavaScript의 데이터 타입은 크게 **기본(원시, Primitive) 타입**과
 
 
 
-#### 1-1. 기본(원시, Primitive) 타입
-
+#### 1-1. 기본 타입(Primitive Type)
 1. **number**(숫자), **string**(문자열), **boolean**(불리언), **symbol**(심벌), **undefined** 이렇게 다섯 가지가 있다. 
 2. [실습: project-ex01] 기본 타입 확인(ex01.js)
 3. c, c++, java와 같은 컴파일 언어에 익숙하다면 string이 기본 타입인 점과 undefined 타입의 존재 등이 이해하기 쫌 어려울 것이다.
 4. 
 
-#### 1-2. 객체
+#### 1-2. 객체(Object)
 

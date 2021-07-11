@@ -1,4 +1,7 @@
+# Mac
 **/.DS_Store
+
+# JavaScript Project
 **/node_modules
 
 # IDE directories and files
