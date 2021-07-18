@@ -1,20 +1,15 @@
 ## JavaScript Practices
 
-## JavaScript Core
-
-#### 01장. 자바스크립트 소개
-#### 02장. 어휘구조와 코드의 실행
-#### 03장. 기본타입과 객체
-#### 04장. 내장객체
-#### 05장. 함수
-#### 06장. 스코프
-#### 07장. 배열
-#### 08장. 예외
-#### 09장. 객체지향 프로그래밍
-#### 10장. 비동기 프로그래밍
-#### 11장. 모듈
-
-## 브라우저 프로그래밍
-
-## 서버 프로그래밍
+### 1.	Introduction
+### 2.	Lexical Structure
+### 3.	Primitive Type and Object
+### 4.	Object Oriented Programming
+### 5.	Array
+### 6.	Function
+### 7.	Error Handling
+### 8.	Asynchronous Programming
+### 9.	DOM Programming(JavaScript in Browser)
+### 10. Module
+### 11.	Development Environments
+### 12.	Server Programming(Node.js Fundamentals)
 
