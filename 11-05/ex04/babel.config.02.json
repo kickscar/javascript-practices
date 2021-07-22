@@ -1,0 +1,19 @@
+{
+  "presets": [
+    [
+      "@babel/env",
+      {
+        "targets": {
+          "node": "current"
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    "@babel/plugin-transform-block-scoping",
+    "@babel/plugin-transform-parameters",
+    "@babel/plugin-transform-template-literals",
+    "@babel/plugin-transform-for-of"
+  ]
+}
+
