@@ -10,6 +10,6 @@
 ### 8.  Asynchronous Programming
 ### 9.  DOM Programming & jQuery
 ### 10. Module
-### 11. Developement Environments
+### 11. Development Environments
 ### 12. Node.js Fundamentals
 
