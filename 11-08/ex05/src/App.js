@@ -1,8 +1,8 @@
-import './assets/scss/App.scss';
+import logo from './assets/images/logo.png'
 
-export default function(){
-    const app = document.createElement('h1');
-    app.className = 'Header';
-    app.textContent = 'Hello World';
+export default function() {
+    const app = document.createElement('div');
+    app.innerHTML = `<img src=${logo} alt='logo' />`
+
     return app;
 }
