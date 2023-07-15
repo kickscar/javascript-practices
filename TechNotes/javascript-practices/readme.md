@@ -1,5 +1,3 @@
-readme
-
 ## JavaScript Practices
 ### 1\. Introduction
 ### 2\. Lexical Structure
@@ -8,8 +6,8 @@ readme
 ### 5\. Array
 ### 6\. Function
 ### 7\. Error Handling
-### 8\. Asynchronous Programming
-### 9\. DOM Programming & jQuery
-### 10\. Module
-### 11\. Development Environments
-### 12\. Node.js Fundamentals
+### 8\. Functional Programming
+### 9\. Asynchronous Programming
+### 10\. DOM Programming & jQuery
+### 11\. Module
+### 12\. Development Environments
