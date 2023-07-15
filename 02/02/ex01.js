@@ -1,5 +1,3 @@
-/* Literal Example */
-
 i = 10
 j = 20
 s1 = 'hello'

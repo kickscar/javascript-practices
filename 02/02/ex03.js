@@ -1,5 +1,3 @@
-/* expressions for a value */
-
 2 + 2
 parseInt('4')
 Math.pow(2, 2)
